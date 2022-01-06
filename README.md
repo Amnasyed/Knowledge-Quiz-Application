@@ -2,7 +2,7 @@
 
 Class `Question`
 
-``java
+```java
 public class Question {
 
     private String question;
