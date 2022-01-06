@@ -34,7 +34,6 @@ public class Question {
 ```
 
 
-E
 
 
 </h4>
